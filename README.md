@@ -1,7 +1,7 @@
 # CSV Explorer V0.11.0 Documentation
 
 ## Overview
-CSV Explorer is an interactive command-line tool for exploring and analyzing CSV datasets. It enables quick filtering, cross-tabulation, value exploration, and drill-down analysis without loading entire datasets into memory. The tool uses lazy column loading and caching for efficiency with large files.
+CSV Explorer is an interactive and lightweight command-line tool for exploring and analyzing CSV datasets. It enables quick filtering, cross-tabulation, value exploration, and drill-down analysis without loading entire datasets into memory. The tool uses lazy column loading and caching for efficiency with large files.
 
 **Key Features:**
 - Column value exploration with counts/percentages

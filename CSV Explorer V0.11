@@ -358,7 +358,7 @@ class ExplorerSession:
             print("\nNo columns found.")
             return None
 
-        PAGE_SIZE = 50
+        PAGE_SIZE = 30
         page = 0
         filtered = list(enumerate(cols))  # (absolute_index, name)
         search_kw = None
